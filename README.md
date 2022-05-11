@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarahmunga
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, sql, R, machine learning.
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me mungachizi@gmail.com
 
